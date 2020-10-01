@@ -1,0 +1,14 @@
+.idea/
+.settings/
+target/
+.swagger-codegen/
+*.iml
+.classpath
+.project
+.DS_Store
+.mvn/wrapper/maven-wrapper.jar
+.swagger-codegen-ignore
+*.swa
+*.swo
+*.swp
+
