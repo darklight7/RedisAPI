@@ -1,4 +1,4 @@
-package io.redis.jedis.jedisdemo.model;
+package com.redis.RedisAPI.model;
 
 import java.io.Serializable;
 
